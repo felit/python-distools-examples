@@ -1,2 +1,2 @@
 def method2():
-    print("print method5")
+    print("print method54")

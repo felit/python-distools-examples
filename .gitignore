@@ -103,5 +103,6 @@ ENV/
 
 *.tar.gz
 dist/
+build/
 .idea
 MANIFEST

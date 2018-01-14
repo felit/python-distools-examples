@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 print find_packages(where="src")
-setup(name="distlib",
+setup(name="example01",
       version="1.0.1",
       license="Apache 2.0",
       package_dir={'': 'src'},
